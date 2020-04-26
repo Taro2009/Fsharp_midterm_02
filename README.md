@@ -1,6 +1,6 @@
 # Book adatbázisos feladat - Midterm No.2
 
-Ez a project a Book adatbázis deladat, a második beadandó a 3 midterm beadandó közül. A Project **Visual Studio**-ban íródott, a template: **Websharper 4 Client-Server Application (.NET Framework)**
+Ez a project a **Book adatbázis feladat**, a második beadandó a 3 midterm beadandó közül. A Project **Visual Studio**-ban íródott, a template: **Websharper 4 Client-Server Application (.NET Framework)**
 
 A befejezett project kinézete:
 
