@@ -52,11 +52,11 @@ Emellett viszont implementálva van az extra funkció, ami **SQL server**-rel ol
 
 - Egyetlen lépésre vagyunk attól, hogy a program indítható legyen, ezt sajnos kézzel kell átírni, mert nem tudtam megoldani scripttel. Ez a lépés pedig a kódban a szerver nevének beállítása, ezt azért kell kézzel beállítani, mert gépről gépre változhat. Ezt a **Remoting.fs** **29. sorában** találhatjuk, itt a **Server=** utáni részt kell átírni arra a szerver névre, ami az **SSMS**-ünk ablakának tetején is látható, lényegében arra, ami az **SQL Server** telepítésekor létrejött szerver név. Ez itt található: 
 
-![mid2_ss_10](mid2_ss_10.png)
+![mid2_ss_10](./Dokumentacio_kepek/mid2_ss_10.png)
 
-	És ezt kell átírni a **ConnectionString**-ben:
+És ezt kell átírni a **ConnectionString**-ben:
 
-	![mid2_ss_11](./Dokumentacio_kepek/mid2_ss_11.png)
+![mid2_ss_11](./Dokumentacio_kepek/mid2_ss_11.png)
 
 
 # A projekt futtatása
