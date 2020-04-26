@@ -10,7 +10,7 @@ A befejezett project kinézete:
 
 # Fontos file-ok
 
-A legfontosabb két file az **Main.html**, **Client.fs** és a **Remoting.fs** file, elsőa html file, második a kliens oldali F# kódot tartalmazza, az utolsó pedig a szerver oldali **Rpc** hívásokat és egyéb szerver-oldali kódot tartalmaz, szintén F#-ban írva.
+A legfontosabb három file az **Main.html**, **Client.fs** és a **Remoting.fs** file, elsőa html file, második a kliens oldali F# kódot tartalmazza, az utolsó pedig a szerver oldali **Rpc** hívásokat és egyéb szerver-oldali kódot tartalmaz, szintén F#-ban írva.
 
 # A project állapota
 
